@@ -10,3 +10,5 @@ var sortNumber = function (number) {
 var number = [19, 3, 81, 1, 24, 21];
 sortNumber(number);
 console.log(number);
+
+//テスト2の内容
